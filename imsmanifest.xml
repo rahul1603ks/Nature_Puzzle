@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5y4A2RmJzBT_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Natural Beauty Unveiled: The Art of Earth's Canvas</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Natural_Beauty_Unveiled:_The_Art_of_Earth's_Canvas_ORG">
+    <organization identifier="Natural_Beauty_Unveiled:_The_Art_of_Earth's_Canvas_ORG">
+      <title>Natural Beauty Unveiled: The Art of Earth's Canvas</title>
+      <item identifier="Friends_questions_SCO" isvisible="true" identifierref="__5y4A2RmJzBT_course_id_RES">
+        <title>Natural Beauty Unveiled: The Art of Earth's Canvas</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5y4A2RmJzBT_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6c70onppeM5.png" />
+      <file href="mobile/6gsh2Ha3mmf.png" />
+      <file href="mobile/6KKOyqb8VWC.png" />
+      <file href="mobile/60ewRc4io7o.png" />
+      <file href="mobile/5u4CAqZ0KY1.png" />
+      <file href="mobile/6AzSEfrJTff.png" />
+      <file href="mobile/5pQHBWbmbwS.png" />
+      <file href="mobile/5iJvhiBqQQp.png" />
+      <file href="mobile/6imcUoJZnjn.png" />
+      <file href="story_content/5otiLEA1aXw_44100_48_0.mp3" />
+      <file href="story_content/6HWbTjrhJyc_44100_48_0.mp3" />
+      <file href="story_content/6bliL4X2OZR_44100_48_0.mp3" />
+      <file href="story_content/6JdGr2I33Kp_44100_48_0.mp3" />
+      <file href="story_content/6chxlpmQG3m_44100_48_0.mp3" />
+      <file href="story_content/6jzK1aEkCgg_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/url.png" />
+      <file href="story_content/user.js" />
+      <file href="html5/lib/scripts/getting-started-link.html" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/docs-link.html" />
+      <file href="html5/lib/scripts/esm/Draggable.js" />
+      <file href="html5/lib/scripts/esm/.DS_Store" />
+      <file href="html5/lib/scripts/esm/MotionPathPlugin.js" />
+      <file href="html5/lib/scripts/esm/all.js" />
+      <file href="html5/lib/scripts/esm/ScrollTrigger.js" />
+      <file href="html5/lib/scripts/esm/ScrollToPlugin.js" />
+      <file href="html5/lib/scripts/esm/TextPlugin.js" />
+      <file href="html5/lib/scripts/esm/gsap-core.js" />
+      <file href="html5/lib/scripts/esm/EasePack.js" />
+      <file href="html5/lib/scripts/esm/Observer.js" />
+      <file href="html5/lib/scripts/esm/index.js" />
+      <file href="html5/lib/scripts/esm/PixiPlugin.js" />
+      <file href="html5/lib/scripts/esm/CSSPlugin.js" />
+      <file href="html5/lib/scripts/esm/CustomEase.js" />
+      <file href="html5/lib/scripts/esm/Flip.js" />
+      <file href="html5/lib/scripts/esm/EaselPlugin.js" />
+      <file href="html5/lib/scripts/esm/CSSRulePlugin.js" />
+      <file href="html5/lib/scripts/esm/utils/matrix.js" />
+      <file href="html5/lib/scripts/esm/utils/paths.js" />
+      <file href="html5/lib/scripts/esm/utils/strings.js" />
+      <file href="html5/lib/scripts/umd/Draggable.js" />
+      <file href="html5/lib/scripts/umd/.DS_Store" />
+      <file href="html5/lib/scripts/umd/MotionPathPlugin.js" />
+      <file href="html5/lib/scripts/umd/all.js" />
+      <file href="html5/lib/scripts/umd/ScrollTrigger.js" />
+      <file href="html5/lib/scripts/umd/ScrollToPlugin.js" />
+      <file href="html5/lib/scripts/umd/gsap.js" />
+      <file href="html5/lib/scripts/umd/TextPlugin.js" />
+      <file href="html5/lib/scripts/umd/EasePack.js" />
+      <file href="html5/lib/scripts/umd/Observer.js" />
+      <file href="html5/lib/scripts/umd/PixiPlugin.js" />
+      <file href="html5/lib/scripts/umd/CustomEase.js" />
+      <file href="html5/lib/scripts/umd/Flip.js" />
+      <file href="html5/lib/scripts/umd/EaselPlugin.js" />
+      <file href="html5/lib/scripts/umd/CSSRulePlugin.js" />
+      <file href="html5/lib/scripts/minified/Observer.min.js" />
+      <file href="html5/lib/scripts/minified/CSSRulePlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/EaselPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/CustomEase.min.js" />
+      <file href="html5/lib/scripts/minified/.DS_Store" />
+      <file href="html5/lib/scripts/minified/gsap.min.js" />
+      <file href="html5/lib/scripts/minified/PixiPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/Flip.min.js.map" />
+      <file href="html5/lib/scripts/minified/EaselPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/MotionPathPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/EasePack.min.js.map" />
+      <file href="html5/lib/scripts/minified/Draggable.min.js" />
+      <file href="html5/lib/scripts/minified/Observer.min.js.map" />
+      <file href="html5/lib/scripts/minified/gsap.min.js.map" />
+      <file href="html5/lib/scripts/minified/Flip.min.js" />
+      <file href="html5/lib/scripts/minified/TextPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/ScrollToPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/PixiPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/ScrollTrigger.min.js.map" />
+      <file href="html5/lib/scripts/minified/ScrollToPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/EasePack.min.js" />
+      <file href="html5/lib/scripts/minified/CustomEase.min.js.map" />
+      <file href="html5/lib/scripts/minified/CSSRulePlugin.min.js" />
+      <file href="html5/lib/scripts/minified/TextPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/MotionPathPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/ScrollTrigger.min.js" />
+      <file href="html5/lib/scripts/minified/Draggable.min.js.map" />
+      <file href="html5/lib/scripts/src/Draggable.js" />
+      <file href="html5/lib/scripts/src/.DS_Store" />
+      <file href="html5/lib/scripts/src/MotionPathPlugin.js" />
+      <file href="html5/lib/scripts/src/all.js" />
+      <file href="html5/lib/scripts/src/ScrollTrigger.js" />
+      <file href="html5/lib/scripts/src/ScrollToPlugin.js" />
+      <file href="html5/lib/scripts/src/TextPlugin.js" />
+      <file href="html5/lib/scripts/src/gsap-core.js" />
+      <file href="html5/lib/scripts/src/EasePack.js" />
+      <file href="html5/lib/scripts/src/Observer.js" />
+      <file href="html5/lib/scripts/src/index.js" />
+      <file href="html5/lib/scripts/src/PixiPlugin.js" />
+      <file href="html5/lib/scripts/src/CSSPlugin.js" />
+      <file href="html5/lib/scripts/src/CustomEase.js" />
+      <file href="html5/lib/scripts/src/Flip.js" />
+      <file href="html5/lib/scripts/src/EaselPlugin.js" />
+      <file href="html5/lib/scripts/src/CSSRulePlugin.js" />
+      <file href="html5/lib/scripts/src/utils/matrix.js" />
+      <file href="html5/lib/scripts/src/utils/paths.js" />
+      <file href="html5/lib/scripts/src/utils/strings.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6iFVQrpii3U.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
